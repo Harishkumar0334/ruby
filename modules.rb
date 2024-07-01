@@ -1,4 +1,4 @@
-#classrom
+#classrom1
   class Classroom
     attr_accessor :student_count
     attr_accessor :section
